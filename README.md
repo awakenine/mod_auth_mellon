@@ -1,4 +1,4 @@
-*As of Monday 30 September 2019, this project is no longer maintained by Uninett. This fork contains fixes for security vulnerabilities. Please let me know if you discovered new vulnerability. Mail: leikindv@gmail.com*
+*As of Monday 30 September 2019, this project is no longer maintained by Uninett. This fork contains fixes for security vulnerabilities. For reporting security vulnerabilities in mod_auth_mellon, please contact me directly at the following email address: leikindv@gmail.com*
 
 # mod_auth_mellon
 
