@@ -1,3 +1,5 @@
+*As of Monday 30 September 2019, this project is no longer maintained by Uninett. I will perform security fixes for security vulnerabilities in this fork. *
+
 # mod_auth_mellon
 
 mod_auth_mellon is an authentication module for Apache. It authenticates
